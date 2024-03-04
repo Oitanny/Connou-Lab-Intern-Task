@@ -6,8 +6,8 @@ This Flutter project is a simple counter application based on the BLoC (Business
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://.../connou-test.git
-    cd connou-test
+    git clone https://github.com/Oitanny/Connou-Lab-Intern-Task.git
+    cd Connou-Lab-Intern-Task
     ```
 
 2. **Install Dependencies:**
